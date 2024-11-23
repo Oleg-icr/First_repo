@@ -28,4 +28,12 @@ my_dict["email"] = "oleksiy@gmail.com"
 print(my_dict)
 del my_dict["email"]
 print(my_dict)
-    
+
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+
+
+print("==================================================================")
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
